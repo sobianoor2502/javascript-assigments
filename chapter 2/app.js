@@ -2,7 +2,7 @@
 var username;
 
 // question 2
-var myName = "Sobia Noor";
+var myName = "Noor-e-Saba";
 
 // question 3
 // a)
@@ -34,7 +34,7 @@ alert("I am trying to learn "+book);
 
 // question 8
 var text = "JavaScript"
-document.write("Yah! I can write HTML content through" + text);
+document.write("Yah! I can write HTML content through " + text);
 document.write("<br \>");
 
 // question 9
