@@ -11,7 +11,6 @@ var message;
 var message = "Hello World";
 // c)
 alert(message);
-
 // question 4
 var studentName = "Jhone Doe";
 var studentAge = 15 + " years old";
