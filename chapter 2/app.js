@@ -2,7 +2,7 @@
 var username;
 
 // question 2
-var myName = "Noor-e-Saba";
+var myName = "Sobia Noor";
 
 // question 3
 // a)
